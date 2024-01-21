@@ -9,7 +9,7 @@
 
 
 ### 🛸 Welcome to my Github page !    
-Imma a pre final year student at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Electronics and Communication Engineering. I have worked as a Junior Machine Learning Intern at Saptang Labs where I have delivered machine learning and NLP solutions to identify fake websites and domains.
+Imma a pre final year student at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Electronics and Communication Engineering. I have worked as a Junior Machine Learning Engineer Intern at Saptang Labs where I have delivered machine learning and NLP solutions to identify fake websites and domains.
 
 In Jan 2023, I have won `Ethos`-A National Level Hackathon conducted by `IIT Guwahati`.
 
