@@ -9,9 +9,11 @@
 
 
 ### 🛸 Welcome to my Github page !    
-I'm sophomore at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Electronics and Communication Engineering. Currently I'm the **Community Coordinator** of Machine Learning and Artificial Intelligence wing 🤠 [**@House Of Geeks**](https://github.com/houseofgeeks) ⏩ at IIITR!
+Imma a pre final year student at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Electronics and Communication Engineering. I have worked as a Junior Machine Learning Intern at Saptang Labs where I have delivered machine learning and NLP solutions to identify fake websites and domains.
 
-I am interested in **Machine Learning/Deep Learning** 🤖. 
+In Jan 2023, I have won `Ethos`-A National Level Hackathon conducted by `IIT Guwahati`.
+
+I am interested in **Machine Learning/Deep Learning** 🤖, **Natural Language Processing** and **Large Language Models**. 
 
 ❤️ **Research**
 
